@@ -1,1 +1,1 @@
-prompt('XSS By RITZ')
+prompt(document.domain)
