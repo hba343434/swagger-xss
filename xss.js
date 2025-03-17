@@ -1,1 +1,1 @@
-alert('test by ritz')
+prompt('XSS By RITZ')
